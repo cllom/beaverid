@@ -12,4 +12,4 @@ Beaver-ID Project code repository. Individual recognition of Eurasian beavers (C
 ```
 git clone https://github.com/cllom/beaverid
 ```
-Run beaverid.ipynb in jupyter notebook.
+Run beaverid.ipynb in Jupyter Notebook.
