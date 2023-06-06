@@ -12,4 +12,4 @@ Beaver-ID Project code repository.
 ```
 git clone https://github.com/cllom/beaverid
 ```
-Use beaverid.ipynb and run it in jupyter notebook.
+Run beaverid.ipynb in jupyter notebook.
