@@ -1,6 +1,8 @@
 # BeaverID
 Beaver-ID Project code repository. Individual recognition of Eurasian beavers (Castor fiber) by their tail pattern using a computer-assisted pattern-identification algorithm.
 
+![image](https://github.com/cllom/beaverid/assets/27281789/2b99373b-436e-4b3a-8a3f-c39adfca1fbd)
+
 # Introduction
 The aim of this project is to develop a computer-assisted pattern-identification algorithm to recognize individual Eurasian beavers (Castor fiber) based on their unique tail patterns. 
 
@@ -27,6 +29,8 @@ Data Collection: Gather a comprehensive datase, the dataset should include a div
 
 Testing and Validation: Evaluate the trained algorithm using the validation set to assess its ability to recognize individual Eurasian beavers accurately. Measure key performance metrics such as accuracy to quantify the algorithm's effectiveness.
 Individually indentify unseen image of beaver tail patter.
+
+![image](https://github.com/cllom/beaverid/assets/27281789/df0ac4a5-f50b-4efe-87d6-9d8afcb48eb4)
 
 
 
