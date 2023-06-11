@@ -24,6 +24,7 @@ The data set was collected with diverse range of individuals and has benn prepro
 
 # Objective of the codes
 Data Collection: Gather a comprehensive datase, the dataset should include a diverse range of individuals.
+
 Testing and Validation: Evaluate the trained algorithm using the validation set to assess its ability to recognize individual Eurasian beavers accurately. Measure key performance metrics such as accuracy to quantify the algorithm's effectiveness.
 Individually indentify unseen image of beaver tail patter.
 
